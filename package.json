@@ -1,0 +1,28 @@
+{
+  "name": "christmas-custom-status",
+  "version": "1.0.0",
+  "description": "Changes your status to a Christmas countdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xMinota/christmas-custom-status.git"
+  },
+  "keywords": [
+    "christmas"
+  ],
+  "author": "Minota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xMinota/christmas-custom-status/issues"
+  },
+  "homepage": "https://github.com/xMinota/christmas-custom-status#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security"
+  }
+}
