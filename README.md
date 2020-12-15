@@ -1,6 +1,9 @@
 # christmas-custom-status
 🎄 Displays the days until christmas on your discord status.
 
+# Preview
+![lol](https://minota.thigh.pics/8eE9BEB.png)
+
 # Setup
 
 ## Pre-requisities 
